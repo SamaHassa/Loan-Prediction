@@ -40,6 +40,10 @@ The dataset used in this project contains features such as applicant income, loa
 
 🏆 Performance metrics include accuracy, precision, recall, and F1-score.
 
+
+![image](https://github.com/user-attachments/assets/4a3fc866-c593-4405-9532-8969a64ce67f)
+
+
 📧 Contact Me
 
 📩 Email: samahassans73s@gmail.com
