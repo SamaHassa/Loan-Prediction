@@ -54,7 +54,7 @@ Note: Ensure the dataset is placed in the appropriate directory before running t
 
 📊 Results
 Model	Accuracy
-Random Forest Classifier	77.2%
+Random Forest Classifier	79.2%
 Support Vector Classifier	83.7%
 
 Key Observations:
